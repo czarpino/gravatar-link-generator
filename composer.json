@@ -1,6 +1,9 @@
 {
     "name": "czarpino/gravatar-link-generator",
     "description": "Gravatar link generator",
+    "autoload": {
+        "psr-4": {"src/"}
+    }
     "license": "MIT",
     "authors": [
         {
