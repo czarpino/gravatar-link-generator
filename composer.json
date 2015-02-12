@@ -1,0 +1,15 @@
+{
+    "name": "czarpino/gravatar-link-generator",
+    "description": "Gravatar link generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Czar Pino",
+            "email": "email@czarpino.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
